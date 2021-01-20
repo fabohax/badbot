@@ -1,2 +1,2 @@
-# badbot
+# bitbot
 Minimal Binance Trader Bot
