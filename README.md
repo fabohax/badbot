@@ -42,6 +42,6 @@ To run this bot we recommend a linux OS with a minimum of:
 
 Strato is an algorithmic trading strategy that runs on bitbot. Backtested on Binance exchange with average gaining results of 33% per month.
 
-##Support
+## Support
 
 For any questions not covered by the documentation or for further information about the bot, we encourage you to message at 40230@pm.me.
