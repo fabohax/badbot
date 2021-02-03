@@ -31,37 +31,9 @@ git
 TA-Lib
 virtualenv (Recommended)
 
-Strato strategy
+Strato
 
 Strato is an algorithmic trading strategy that runs on bitbot. Backtested on Binance exchange with average gaining results of 33% per month.
 
-Backtests
-The table below lists the average results per month of 2020.
-
-January
-25.1%
-February
-26.6%
-March
-38.5%
-April
-47.1%
-May
-48.6%
-June
-53.5%
-July
-42.3%
-August
-34.8%
-September
-27.2%
-October
-34.5%
-November
-61.6%
-December
-72.2%
- 
 Support
 For any questions not covered by the documentation or for further information about the bot, we encourage you to message at 40230@pm.me.
