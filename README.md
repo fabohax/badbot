@@ -2,7 +2,7 @@
 
 Bitbot is a cryptocurrency algorithmic trading software with machine learning backtesting developed in python (3.7+) and supported on Windows, macOS and Linux.
 
-Features
+## Features
 
 Automated Strategy: Apply an automated strategy for your portfolio.
 
@@ -16,14 +16,14 @@ Control/Monitor: Telegram chat(start/stop the bot, show profit/loss, daily summa
 
 Analyse: Further analysis can be performed on either Backtesting data or Bitbot trading history (SQL database), including automated standard plots, and methods to load the data into interactive environments.
 
-Hardware requirements
+## Hardware requirements
 
 To run this bot we recommend a linux OS with a minimum of:
 2GB RAM
 1GB disk space
 2 Virtual Processors (vCPU)
 
-Software requirements
+## Software requirements
 
 Python 3.7+
 pip (pip3)
@@ -31,9 +31,10 @@ git
 TA-Lib
 virtualenv (Recommended)
 
-Strato
+## Strato
 
 Strato is an algorithmic trading strategy that runs on bitbot. Backtested on Binance exchange with average gaining results of 33% per month.
 
-Support
+##Support
+
 For any questions not covered by the documentation or for further information about the bot, we encourage you to message at 40230@pm.me.
