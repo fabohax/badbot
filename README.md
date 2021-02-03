@@ -19,16 +19,23 @@ Analyse: Further analysis can be performed on either Backtesting data or Bitbot 
 ## Hardware requirements
 
 To run this bot we recommend a linux OS with a minimum of:
+
 2GB RAM
+
 1GB disk space
+
 2 Virtual Processors (vCPU)
 
 ## Software requirements
 
 Python 3.7+
+
 pip (pip3)
+
 git
+
 TA-Lib
+
 virtualenv (Recommended)
 
 ## Strato
