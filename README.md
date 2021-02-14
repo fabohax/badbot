@@ -44,4 +44,4 @@ Strato is an algorithmic trading strategy that runs on bitbot.
 
 ## Support
 
-For any questions not covered by the documentation or for further information about the bot, we encourage you to message at 40230@pm.me.
+For any questions not covered by the documentation or for further information about the bot, you can message at 40230@pm.me.
