@@ -1,6 +1,6 @@
 # bitbot
 
-Bitbot is a cryptocurrency algorithmic trading software with machine learning backtesting developed in python (3.7+) and supported on Windows, macOS and Linux.
+Bitbot is a cryptocurrency algorithmic trading software developed in python (3.7+) and supported on Linux.
 
 ## Features
 
