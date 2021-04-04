@@ -1,6 +1,6 @@
-# bitbot
+# bibot
 
-Bitbot is a cryptocurrency algorithmic trading software developed in python (3.7+) and supported on Linux.
+Bibot is a cryptocurrency algorithmic trading software developed in python (3.7+) and supported on Linux.
 
 ## Features
 
