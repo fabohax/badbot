@@ -1,6 +1,6 @@
 # bibo
 
-Bibo is a cryptocurrency algorithmic trading software developed in python (3.7+) and supported on Linux.
+Bibo is a cryptocurrency algorithmic trader bot developed in python (3.7+) working with Binance and supported on Linux.
 
 ## Features
 
