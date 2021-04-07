@@ -1,12 +1,12 @@
 [Unit]
-Description=Badbot Daemon
+Description=Bibo Daemon
 After=network.target
 
 [Service]
 # Set WorkingDirectory and ExecStart to your file paths accordingly
 # NOTE: %h will be resolved to /home/<username>
-WorkingDirectory=%h/badbot
-ExecStart=/usr/bin/badbot trade
+WorkingDirectory=%h/bibo
+ExecStart=/usr/bin/bibo trade
 Restart=on-failure
 
 [Install]
