@@ -6,15 +6,7 @@ Bibo is a cryptocurrency algorithmic trader bot developed in python (3.7+) worki
 
 -Automated Strategy: Apply an automated strategy for your portfolio.
 
--Backtested trading: Run your strategy backed by downloaded historical data.
-
--Optimized: Works with optimized parameters which employs machine learning methods.
-
--Run: Test your strategy with simulated money (Demo mode) or deploy it with real money (Live mode). The concept is to find the best historical trade expectancy by markets based on variation of the stop-loss and then allow/reject markets to trade. The sizing of the trade is based on a risk of a percentage of your capital.
-
 -Control/Monitor: Telegram chat(start/stop the bot, show profit/loss, daily summary, current open trades results, etc.).
-
--Analyse: Further analysis can be performed on either Backtesting data or Bitbot trading history (SQL database), including automated standard plots, and methods to load the data into interactive environments.
 
 ## Hardware requirements
 
