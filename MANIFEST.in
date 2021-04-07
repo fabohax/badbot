@@ -1,0 +1,4 @@
+include LICENSE
+include config.json
+recursive-include bitbot *.py
+recursive-include bitbot/templates/ *.j2 *.ipynb
